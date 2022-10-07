@@ -1,2 +1,8 @@
 Sam Van Doorsselaere
 Test
+
+Voor bestand toe te voegen
+
+1. git add .
+2. git commit -m "tekst"
+3. git push
